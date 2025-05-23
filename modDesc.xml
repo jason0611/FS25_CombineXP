@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+    <author>yumi</author>
+    <version>1.0.0.0</version>        
+    <title>
+        <en>Combine XPerience</en>
+    </title>
+    <description>
+        <en><![CDATA[
+If you're tired of harvesting any crops with any combine at 10 kph, this mod is for you.
+The goal of this mod is to provide a new experience when using combine harvesters in the game to be closer to real life harvesting.
+New features:
+- Capability to activate combine and cutter independently as IRL
+- Harvesting speed limit based on material quantity gathered, crop type, combine performance (based on power) and crop moisture depending on time of the day
+- Display several data in HUD when harvesting: material capacity (T/h), combine load (%), instant yield (T/ha)
+combineXP.xml file available in modSettings folder can be edited to enable/disable specific behavior for your own convenience
+]]></en>
+        <fr><![CDATA[
+Si vous en avez assez de moissonner n'importe quelle culture avec n'importe quelle moissonneuse à 10 km/h, ce mod est pour vous.
+Le but de ce mod est de fournir une nouvelle expérience lors de l'utilisation des moissonneuses-batteuses dans le jeu pour être plus proche de la réalité.
+Nouvelles fonctionnalités:
+- Possibilité d'activer la moissonneuse-batteuse et la barre de coupe indépendamment comme IRL
+- Limite la vitesse de moisson en fonction de la quantité récoltée, du type de culture, des performances de la moissonneuse (basées sur sa puissance) et de l'humitidité de la culture en fonction de l'heure de la journée
+- Affiche différentes données dans le HUD lors de la récolte: quantité de récolte (T/h), charge de la moissonneuse (%), rendement instantané (T/ha)
+Le fichier combineXP.xml disponible dans le dossier modSettings peut être edité pour activer/désactiver certains comportements à votre guise
+]]></fr>
+        <de><![CDATA[
+Wenn Sie es satt haben, das Feld mit einem beliebigen Mähdrescher bei 10 km/h zu ernten, ist dieser Mod genau das richtige für Sie.
+Das Ziel dieses Mods ist es, eine neue Erfahrung bei der Verwendung von Mähdreschern im Spiel zu bieten, um denen in der Realität näher zu kommen.
+Eigenschaften:
+- Mähdrescher und das Schneidwerk unabhängig voneinander wie in der Realität zu aktivieren
+- Erntegeschwindigkeitslimit basierend auf der gesammelten Materialmenge, der Ernteart, der Mähdrescherleistung (basierend auf der Gesamtleistung) und die Luftfeuchtigkeit der Ernte je nach Tageszeit
+- Zeigt Ihnen bei der Ernte mehrere Daten im HUD an: Materialkapazität (T/h), kombinierte Ladung (%), sofortiger Ertrag (T/ha)
+Die Datei combineXP.xml im Ordner „modSettings“ kann bearbeitet werden, um bestimmte Verhaltensweisen nach Ihren Wünschen zu aktivieren/deaktivieren.
+]]></de>
+        <ru><![CDATA[
+Если вам надоело убирать поле любым комбайном на скорости 10 км/ч, этот мод для вас.
+Цель этого мода - дать новый опыт использования комбайнов в игре, чтобы приблизиться к реальному.
+Свойства:
+- Активировать комбайн и жатку независимо друг от друга как "в реальной жизни"(IRL)
+- Ограничение скорости сбора урожая в зависимости от количества собранного материала, типа урожая, производительности комбайна (в зависимости от мощности) и влажности урожая с модом Seasons
+- Отображает несколько данных в HUD во время уборки: производительность комбайна (т/ч), загрузка комбайна (%), текущая урожайность (т/га)
+combineXP.xml file available in modSettings folder can be edited to enable/disable specific behavior for your own convenience
+]]></ru>
+        <pl><![CDATA[
+Jeśli masz dość koszenia zbóż dowolnym kombajnem z prędkością 10 km/h, ten mod jest dla Ciebie.
+Celem tego modu jest zapewnienie nowych wrażeń podczas korzystania z kombajnów w grze, aby być bliżej zbiorów w prawdziwym życiu.
+Nowe funkcje:
+- Możliwość niezależnej aktywacji kombajnu i hederu/przystawki jak w prawdziwym życiu
+- Ograniczenie prędkości koszenia w oparciu o ilość zbieranego materiału, rodzaj uprawy, wydajność kombajnu (w oparciu o moc) i wilgotność plonu w zależności od pory dnia
+- Wyświetlanie kilku danych na HUDzie podczas zbioru: wydajność zbioru (t/h), obciążenie kombajnu (%), ogólna wydajność (t/ha)
+combineXP.xml file available in modSettings folder can be edited to enable/disable specific behavior for your own convenience
+]]></pl>
+        <br><![CDATA[
+Se você está cansado de colher qualquer lavoura com qualquer colheitadeira a 10 km / h, este modo é para você.
+O objetivo deste mod é fornecer uma nova experiência ao usar colheitadeiras no jogo para estar mais perto da colheita da vida real.
+Novas características:
+- Capacidade de ativar a colheitadeira e o cortador independentemente como IRL
+- Limite de velocidade de colheita com base na quantidade de material coletado, tipo de cultura, desempenho da colheitadeira (baseado na sua potência) e a umidade da cultura dependendo da hora do dia
+- Exibe vários dados no HUD durante a colheita: capacidade de material (T/h), carga da colheitadeira (%), rendimento da lavoura (T/ha)
+combineXP.xml file available in modSettings folder can be edited to enable/disable specific behavior for your own convenience
+]]></br>
+        <it><![CDATA[
+Se sei stanco di raccogliere qualsiasi raccolto con qualsiasi mietitrebbia a 10 km/h, questa mod è per te.
+L'obiettivo di questa mod è fornire una nuova esperienza quando si utilizzano le mietitrebbie nel gioco per essere più vicini alla raccolta della vita reale.
+Nuove caratteristiche:
+- Possibilità di attivare la mietitrebbia e la taglierina indipendentemente come IRL
+- Limite di velocità di raccolta in base alla quantità di materiale raccolto, al tipo di coltura, alle prestazioni della mietitrebbia (in base alla potenza) e all'umidità del raccolto a seconda dell'ora del giorno
+- Visualizza diversi dati nell'HUD durante la raccolta: capacità del materiale (T/h), carico della mietitrebbia (%), resa istantanea (T/ha)
+combineXP.xml file available in modSettings folder can be edited to enable/disable specific behavior for your own convenience
+]]></it>
+    </description>
+    <iconFilename>icon_CombineXP.dds</iconFilename>
+    <multiplayer supported="true"/>
+    
+    <extraSourceFiles>
+        <sourceFile filename="src/main.lua" />
+    </extraSourceFiles>
+
+    <l10n>
+        <text name="warning_firstStartThreshing">
+            <fr>Vous devez d'abord démarrer le système de battage</fr>
+            <en>You first need to start combine threshing</en>
+            <de>Starten Sie zuerst das Mähdrescher-Dreschsystem!</de>
+            <ru>Сначала запустите систему обмолота комбайна!</ru>
+            <pl>Najpierw musisz uruchomić młócarnię w kombajnie</pl>
+            <br>Você deve primeiro iniciar o sistema de debulha</br>
+	        <it>Avviare prima il sistema di trebbiatura della mietitrebbia!</it>
+        </text>
+        <text name="warning_highMoistureAtThisTime">
+            <fr>L'humidité de la culture est élevée à cette heure de la journée et réduit la vitesse de moisson</fr>
+            <en>Crop moisture is high at this time of the day and reduce combining speed</en>
+            <de>Die Luftfeuchtigkeit der Ernteist zu dieser Tageszeit hoch und verringert die Erntegeschwindigkeitslimit</de>
+            <ru>В это время суток влажность урожая высока, что снижает скорость комбайна.</ru>
+            <pl>Wilgotność uprawy jest wysoka o tej porze dnia przez co zmniejszy się prędkość pracy kombajnu</pl>
+            <br>A umidade da lavoura é alta nesta hora do dia reduzindo a velocidade da colheitadeira</br>
+	        <it>L'umidità del raccolto è elevata a quest'ora del giorno e riduce il limite di velocità di raccolta.</it>
+        </text>
+        <text name="combineGameplaySetting">
+            <fr>Gameplay</fr>
+            <en>Gameplay</en>
+            <de>Spielweise</de>
+            <ru>Игровой процесс</ru>
+            <pl>rozgrywka</pl>
+            <it>Gioco</it>
+        </text>
+        <text name="combineGameplayTooltip">
+            <fr>Arcade = 100% boost / Normal = 20% boost / Réaliste = Pas de boost</fr>
+            <en>Arcade = 100% boost / Normal = 20% boost / Realistic = No boost</en>
+            <de>Arkade = 100 % Boost / Normal = 20 % Boost / Realistisch = Kein Boost</de>
+            <ru>Аркада (Упрощённый) = форсаж двигателя на 100% / Нормальный = форсаж двигателя на 20% / Реалистичный = без форсажа двигателя</ru>
+            <pl>SZręcznościowy = 100% boost / Normalny = 20% boost / Realistyczny = Brak boost</pl>
+            <br>Videogame = 100% boost / Normal = 20% boost / Realista = No boost</br>
+            <it>Arcade = potenziamento del 100% / Normale = potenziamento del 20% / Realistico = nessun potenziamento</it>
+        </text>
+	    <text name="gameplayArcade">
+            <fr>Arcade</fr>
+            <en>Arcade</en>
+            <de>Arkade</de>
+            <ru>Аркада</ru>
+            <pl>Zręcznościowy</pl>
+            <br>Videogame</br>
+	        <it>Arcade</it>
+        </text>
+        <text name="gameplayNormal">
+            <fr>Normal</fr>
+            <en>Normal</en>
+            <de>Normal</de>
+            <ru>Нормальный</ru>
+            <pl>Normlany</pl>
+            <br>Normal</br>
+	        <it>Normale</it>
+        </text>
+        <text name="gameplayRealistic">
+            <fr>Réaliste</fr>
+            <en>Realistic</en>
+            <de>Realistisch</de>
+            <ru>Реалистичный</ru>
+            <pl>Realistyczny</pl>
+            <br>Realista</br>
+	        <it>Realistico</it>
+        </text>
+        <text name="combinePowerSetting">
+            <fr>Limite de puissance moteur</fr>
+            <en>Engine power limit</en>
+            <de>Motorleistungsgrenze</de>
+            <ru>Ограничение мощности двигателя</ru>
+            <pl>Ograniczenie mocy silnika</pl>
+            <br>Limite de potência do motor</br>
+	        <it>Limite di potenza del motore</it>
+        </text>
+        <text name="combinePowerTooltip">
+            <fr>Tient compte de la puissance du moteur pour limiter la vitesse de récolte</fr>
+            <en>Consider engine power to limit harvesting speed</en>
+            <de>Berücksichtigen Sie die Motorleistung, um die Erntegeschwindigkeit zu begrenzen</de>
+            <ru>Учитывайте мощность двигателя, чтобы ограничить скорость сбора урожая</ru>
+            <pl>Uwzględnij moc silnika, aby ograniczyć prędkość zbioru</pl>
+            <br>Considere a potência do motor para limitar a velocidade de colheita</br>
+	        <it>Considerare la potenza del motore per limitare la velocità di raccolta</it>
+        </text>
+        <text name="combineDaytimeSetting">
+            <fr>Limite de l'heure de la journée</fr>
+            <en>Daytime limit</en>
+            <de>Tageslimit</de>
+            <ru>Ограничение для времени суток</ru>
+            <pl>Limit dzienny</pl>
+            <br>Limite diurno</br>
+            <it>Limite diurno</it>
+        </text>
+        <text name="combineDaytimeTooltip">
+            <fr>Tient compte de l'heure de la journée pour limiter la vitesse afin de simuler l'humidité des cultures</fr>
+            <en>Consider daytime to limit speed to simulate crop moisture</en>
+            <de>Erwägen Sie tagsüber eine Geschwindigkeitsbegrenzung, um die Feuchtigkeit der Ernte zu simulieren.</de>
+            <ru>Учитывайте время суток, чтобы ограничить скорость для имитации влажности урожая.</ru>
+            <pl>Zastanów się nad porą dnia, aby ograniczyć prędkość, aby symulować wilgotność upraw</pl>
+            <br>Considere o dia para limitar a velocidade para simular a umidade da cultura</br>
+            <it>Considera il giorno per limitare la velocità per simulare l'umidità del raccolto</it>
+        </text>
+    </l10n>
+</modDesc>
