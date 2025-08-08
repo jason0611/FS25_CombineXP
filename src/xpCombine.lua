@@ -125,7 +125,7 @@ function xpCombine:onLoad(savegame)
     if basePerf <= 0 then
     -- Then motorConfiguration hp
         local vehicleName = self:getFullName()
-        local coef = 1.5 -- It was 1.5 on FS19, but 1 seems OK
+        local coef = 1.2 -- It was 1.5 on FS19, but 1.2 seems better
         local keyCategory = "vehicle.storeData.category"
         local category = self.xmlFile:getValue(keyCategory)
         if category == "forageHarvesters" or category == "forageHarvesterCutters" then

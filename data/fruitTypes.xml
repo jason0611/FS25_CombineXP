@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<fruitTypes>
+    <!--
+        Values are based on FS25_moreRealistic mod from Dural
+    -->
+    <fruitType name="barley"        mrMaterialQtyFx="1.05" />
+    <fruitType name="beetroot"      mrMaterialQtyFx="1.2" />
+    <fruitType name="canola"        mrMaterialQtyFx="0.75" />
+    <fruitType name="carrot"        mrMaterialQtyFx="1.23" />
+    <fruitType name="cotton"        mrMaterialQtyFx="3.43" />
+    <fruitType name="dryGrass"      mrMaterialQtyFx="2.9" />
+    <fruitType name="grass"         mrMaterialQtyFx="3.2" />
+    <fruitType name="GREENBEAN"     mrMaterialQtyFx="2.55" />
+    <fruitType name="maize"         mrMaterialQtyFx="1.8" />
+    <fruitType name="oilseedRadish" mrMaterialQtyFx="0.0020" />
+    <fruitType name="oat"           mrMaterialQtyFx="1.08" />
+    <fruitType name="parsnip"       mrMaterialQtyFx="1.23" />
+    <fruitType name="pea"           mrMaterialQtyFx="1.39" />
+    <fruitType name="poplar"        mrMaterialQtyFx="16" />
+    <fruitType name="potato"        mrMaterialQtyFx="1.16" />
+    <fruitType name="ricelonggrain" mrMaterialQtyFx="1" />
+    <fruitType name="rice"          mrMaterialQtyFx="1.23" />
+    <fruitType name="spinach"       mrMaterialQtyFx="4.94" />
+    <fruitType name="soybean"       mrMaterialQtyFx="0.57" />
+    <fruitType name="sorghum"       mrMaterialQtyFx="1.35" />
+    <fruitType name="sugarBeet"     mrMaterialQtyFx="1.18" />
+    <fruitType name="sugarcane"     mrMaterialQtyFx="3.04" />
+    <fruitType name="sunflower"     mrMaterialQtyFx="1.2" />
+    <fruitType name="wheat"         mrMaterialQtyFx="1" />
+</fruitTypes>
